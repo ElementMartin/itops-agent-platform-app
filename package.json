@@ -1,0 +1,14 @@
+{
+  "name": "itops-agent-platform-app",
+  "version": "4.6.6",
+  "description": "A powerful and flexible tool",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "node scripts/postinstall.js",
+    "start": "node index.js",
+    "test": "echo \"No tests\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "Unlicense"
+}
